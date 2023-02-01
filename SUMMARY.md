@@ -14,4 +14,4 @@
 
 * [RTL](rtl.md)
 * [IDT VS. BDT](idt-vs.-bdt.md)
-* [Page 2](page-2.md)
+* [APEX Chart](apex-chart.md)

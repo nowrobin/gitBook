@@ -20,7 +20,7 @@ We spent most of our time searching for the topic for our project and worked on 
 
 
 
-&#x20;                                      <img src="../.gitbook/assets/image.png" alt="아이디어 정리" data-size="original">
+&#x20;                                      <img src=".gitbook/assets/image (2).png" alt="아이디어 정리" data-size="original">
 
 
 
