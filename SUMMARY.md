@@ -9,10 +9,10 @@
 ## Group 1
 
 * [Storybook](group-1/storybook.md)
+* [APEX Chart](group-1/apex-chart.md)
+* [RTL](group-1/rtl.md)
+* [IDT VS. BDT](group-1/idt-vs.-bdt.md)
 
-***
+## Django
 
-* [RTL](rtl.md)
-* [IDT VS. BDT](idt-vs.-bdt.md)
-* [APEX Chart](apex-chart.md)
-* [Page 1](page-1.md)
+* [Django 시작하기](django/django.md)

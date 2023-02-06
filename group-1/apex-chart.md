@@ -102,7 +102,7 @@ label = ranklabel //이름들이 들어있는 배열
 
 4\) 그다음  option 부분인데 내용이 너무 많아 공식 문서를 참고하는게 좋다, 공식문서를 보고도 헷갈렸던 부분들만 기록
 
-legend : ![](.gitbook/assets/image.png) graph 표시 되는 각 요소들을 보여준다&#x20;
+legend : ![](<../.gitbook/assets/image (2).png>) graph 표시 되는 각 요소들을 보여준다&#x20;
 
 responsive: 자체적으로 반응형을 지원하기 때문에 breakpoint 만 잘활용하면 설정하기 쉽다&#x20;
 
