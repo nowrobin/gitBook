@@ -1,6 +1,6 @@
 # APEX Chart
 
-
+![](<../.gitbook/assets/Screenshot 2023-02-09 at 3.17.41 AM.png>)
 
 
 
@@ -144,5 +144,7 @@ plotoption: 차트안에 요소 plot에 대한 옵션을 해주는 부분인데 
 
 
 ## 마무리
+
+![](<../.gitbook/assets/Screenshot 2023-02-09 at 3.17.41 AM (1).png>)
 
 처음으로 차트를 사용해보았는데, 라이브러리를 활용하니까 확실히 편했다, 다른 차트 라이브러리 후보들로  airbnb의 visx, chart.js 등있었는데 다음 기회에 추가해보고 활용할수있으면 좋게다. 끝! &#x20;
