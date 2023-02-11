@@ -16,3 +16,4 @@
 ## Django
 
 * [Django 시작하기](django/django.md)
+* [Django s3 연동](django/django-s3.md)
