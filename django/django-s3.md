@@ -2,6 +2,7 @@
 
 ```
 s3 package install : pip install boto3 
+django storage: pip install django-storages
 ```
 
 
