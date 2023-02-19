@@ -8,6 +8,10 @@ Silicon-valley bootcamp  is bootcamp the sponsored by our school which we can jo
 
 "Challenge 1on 1" is what they call it, it where people get eliminated if they do not work hard enough and do not attend sessions or team meetings. And mentors visit team meeting without telling to check if we actually working.  In addition to that we have to attend late night meeting that randomly opens (like 2:30, 3:30 am ) .&#x20;
 
+
+
+Congrats
+
 ## Our Group
 
 Our Group is made out of 3 front-end, 4 back-end(feat. AI);
