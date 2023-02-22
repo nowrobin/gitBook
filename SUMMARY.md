@@ -18,3 +18,7 @@
 * [Django 시작하기](django/django.md)
 * [Django s3 연동](django/django-s3.md)
 * [Django part 2](django/django-part-2.md)
+
+## 🖥 Monitoring
+
+* [용어 정리](monitoring/undefined.md)
