@@ -24,9 +24,10 @@ __
 
 ## 문제점들 .. 생각해야되는거...&#x20;
 
-1. deadline을 D-day로 주고싶은데, datefield 에서 integer로 바꾸는 방식?
-   1. &#x20;받기전에 미리 가공해서 datefield 가 아닌 integerfield 로 저장 ?
-   2. Integer 변수를 하나더 선언해서 ,거기에 Dday를 저장하는 방식 ? &#x20;
+1. ~~deadline을 D-day로 주고싶은데, datefield 에서 integer로 바꾸는 방식?~~
+   1. &#x20;~~받기전에 미리 가공해서 datefield 가 아닌 integerfield 로 저장 ?~~
+   2. ~~Integer 변수를 하나더 선언해서 ,거기에 Dday를 저장하는 방식 ?~~ &#x20;
+   3. 해결함, 문제는 retreive 메소드로 사용해서, 다시 불러올때 됨,... 이건  처음 만들어 질때부터 변경해야될듯...
 2. Enum을 사용하고 싶은데 ,, 다중으로 사용하는 방법 ? 여러 타입으로 지정할수있지 않을까 ?&#x20;
    1. 예를 들어  frontend , deveops 둘다 선택??&#x20;
 
