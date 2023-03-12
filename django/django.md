@@ -70,7 +70,7 @@ python3 manage.py runserver **port**
 
 ## 실행되는 흐름
 
-![](../../.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 ## App 생성
 
