@@ -1,4 +1,4 @@
-# DRF  URL vs.  Router
+# URL vs Router
 
 
 
