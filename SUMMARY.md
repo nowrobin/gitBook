@@ -26,6 +26,7 @@
 
 * [Spring](backend/spring/README.md)
   * [용어정리](backend/spring/undefined.md)
+* [정리-1](backend/1.md)
 * [Django 시작하기](django/django.md)
   * [FBV vs CBV](backend/django/fbv-vs-cbv.md)
   * [URL vs Router](backend/django/url-vs-router.md)
