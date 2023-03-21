@@ -18,11 +18,21 @@ Java Annotation: @Bean 어노테이션을 이용해서,  매서드에  bean을 �
 
 ## Servlet&#x20;
 
+서블릿은 서버에서 사용되는 동적 웹페이지를 만들때 사용되는 자바기반의 클래스이다.&#x20;
+
+&#x20;클라이언트의 동작에 동적인 웹 애플리케이션을 만들어 주는 역할을 한다. &#x20;
+
+정적인 페이지들과 비즈니스 로직을 분리하여 사용
+
+
+
+MVC
+
 ## MVC
 
 Model  + View + Controller =MVC pattern &#x20;
 
-
+–
 
 
 
@@ -40,5 +50,7 @@ MVC: [https://medium.com/@jang.wangsu/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84
 
 SpringBean: [https://melonicedlatte.com/2021/07/11/232800.html](https://melonicedlatte.com/2021/07/11/232800.html)
 
+Servlet:&#x20;
 
+[https://velog.io/@falling\_star3/Tomcat-%EC%84%9C%EB%B8%94%EB%A6%BFServlet%EC%9D%B4%EB%9E%80](https://velog.io/@falling\_star3/Tomcat-%EC%84%9C%EB%B8%94%EB%A6%BFServlet%EC%9D%B4%EB%9E%80)
 
