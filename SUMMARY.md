@@ -36,3 +36,7 @@
 * [용어 정리](backend/undefined/README.md)
   * [직렬화/ 역직렬화](backend/undefined/undefined.md)
   * [Page 1](backend/undefined/page-1.md)
+
+## School-Stuff
+
+* [Chapter 1 (Iass,Pass,Sass)](school-stuff/chapter-1-iass-pass-sass.md)
